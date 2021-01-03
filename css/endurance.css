@@ -1,0 +1,449 @@
+.hero li{
+	    padding-right: 27px;
+}
+
+.hero li a{
+	color: white;
+	font-family: Times New Roman;
+	    font-size: 16px;
+}
+
+.navbar-brand{
+	    margin-left: 125px!important;
+}
+
+.navbar-btn{
+	font-family: Times New Roman;
+    padding: 9px;
+    border-color: white;
+    border-radius: 9px;
+}
+
+
+.hero{
+	    float: right!important;
+    margin-right: 169px!important;
+            margin-top: 23px!important;
+}
+
+.header{
+	background-image: url(../img/header-img.jpg);
+}
+
+.header{
+	    width: 100%;
+    background-repeat: no-repeat;
+    height: 1000px;
+    background-size: cover;
+}
+
+.img-one {
+	    width: 580px;
+    margin-left: 135px;
+    margin-top: 123px;
+}
+
+.header-content h3{
+	    padding-left: 125px;
+    color: white;
+    font-family: Arial Black;
+    padding-top: 20px;
+    font-size: 25px;
+    padding-bottom: 30px;
+}
+
+.header-content p{
+	    padding-left: 125px;
+    color: white;
+    padding-bottom: 30px;
+    font-family: Bookman Old Style;
+    font-size: 15px;
+    line-height: 42px;
+}
+
+.content-btn{
+	    margin-left: 125px;
+    font-family: Times New Roman;
+    padding: 10px 20px 10px 20px;
+    font-weight: bold;
+}
+
+.second-content{
+	background-image: url(../img/revolution-back.png);
+    background-repeat: no-repeat;
+    background-color: #0b2128;
+    background-position: center;
+    text-align: center;
+    background-size: contain;  
+    padding-top: 180px;
+    padding-bottom: 180px;
+}
+
+.third{
+	    background-color: #0b2128;
+}
+
+.middle-one img{
+	    width: inherit;
+    margin-top: 150px;
+    float: right;
+            margin-bottom: 100px;
+}
+
+.middle-two h1{
+	    margin-top: 265px;
+    color: white;
+    font-family: Bodoni MT Black;
+}
+
+.middle-two p{
+	    color: white;
+    padding-top: 15px;
+    width: 60%;
+    font-family: Georgia;
+    line-height: 40px;
+}
+
+.mid-btn-two{
+	    margin-top: 10px;
+    padding: 10px 20px 10px 20px;
+    font-family: Georgia;
+    font-weight: bold;
+    border-radius: 11px;
+}
+
+.four{
+	    background-color: #0b2128;
+}
+
+
+.down-btn-one{
+	    margin-top: 10px;
+    padding: 10px 20px 10px 20px;
+    font-family: Georgia;
+    font-weight: bold;
+    border-radius: 11px;
+}
+
+.down-two img{
+	    width: inherit;
+	        margin-top: 15px;
+        margin-bottom: 150px;
+}
+
+.down-one{
+	    padding-left: 280px;
+}
+
+.down-one h1{
+	        margin-top: 90px;
+    color: white;
+    font-family: Bodoni MT Black;
+        padding-left: 285px;
+}
+
+.down-one p{
+	    color: white;
+    padding-top: 15px;
+        width: 100%;
+    font-family: Georgia;
+    line-height: 40px;
+        padding-left: 284px;
+}
+
+.down-btn-one{
+	    margin-left: 275px;
+}
+
+.bottom{
+	margin-top: 0px;
+	    background-color: #0b2128;
+}
+
+.bottom h1{
+	    text-align: center;
+    color: white;
+    font-family: Cooper Black;
+    font-size: 23px;
+}
+
+.bottom p{
+	    text-align: center;
+    color: white;
+    font-family: Georgia;
+    padding-top: 30px;
+    font-size: 16px;
+}
+
+.bottom-btn{
+	    background-color: white;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    color: #0b2128;
+    font-family: Bahnschrift Condensed;
+    padding: 20px 20px 20px 20px;
+    font-size: 16px;
+        margin-bottom: 80px;
+}
+
+.six{
+	    background-color: #0b2128;
+}
+
+.low{
+	    text-align: center;
+    color: white;
+}
+
+.low h1{
+	    font-family: Cooper Black;
+    font-size: 40px;
+}
+
+.low h3{
+	    font-family: Bahnschrift;
+    padding-top: 15px;
+    font-size: 25px;
+}
+
+.low-one{
+	background-image: url(../img/revolution-back.png);
+	    background-repeat: no-repeat;
+    background-position: inherit;
+}
+
+.low-one img{
+	    display: block;
+    margin: auto;
+}
+
+.low-two{
+	background-image: url(../img/revolution-back.png);
+	    background-repeat: no-repeat;
+    background-position: inherit;
+}
+
+.low-two img{
+	    display: block;
+    margin: auto;
+}
+
+.low-one, .low-two{
+	    margin-top: 80px;
+}
+
+.low-one h1{
+    color: white;
+    text-align: center;
+    font-family: Cooper Black;
+    line-height: 58px;
+}
+
+.low-two h1{
+    color: white;
+    text-align: center;
+    font-family: Cooper Black;
+    line-height: 58px;
+}
+
+.low-btn-one{
+	    display: block;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    padding: 15px;
+    font-family: Cooper Black;
+}
+
+.low-btn-two{
+	    display: block;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    padding: 15px;
+    font-family: Cooper Black;
+}
+
+.seven{
+	background-image: url(../img/footer-img.jpg);
+	    padding-top: 100px;
+}
+
+.footer-content h1{
+	    color: white;
+    font-family: Bahnschrift Condensed;
+    font-size: 35px;
+}
+
+.footer-content p{
+	    color: white;
+    font-family: Times New Roman;
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+.footer{
+	        padding-left: 90px!important;
+}
+
+.btm-part-left{
+	font-family: Times New Roman;
+    color: white;
+    font-size: 16px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+
+.btm-part-right{
+	font-family: Times New Roman;
+    color: white;
+    font-size: 16px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+        padding-left: 360px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 768px)
+{
+
+	.header{
+		        width: 100%;
+		        height: 835px;
+	}
+
+	.navbar-brand{
+		margin-left: 0px!important;
+	}
+
+	.navbar-btn{
+		    margin-left: 10px;
+	}
+
+	.navbar-toggle{
+		    color: black!important;
+    background-color: #fefefe!important;
+    margin-top: 31px!important;
+    margin-right: 29px!important;
+    padding: 10px 10px 10px 10px!important;
+	}
+
+	.hero{
+		float: left!important;
+		margin-right: 0px!!important;
+		    margin-left: 10px!important;
+	}
+
+	.hero li a{
+		    font-size: 25px;
+		        padding-bottom: 30px!important;
+		        font-family: Times New Roman;
+	}
+
+	.img-one{
+		       width: 436px!important;
+    margin-left: 20px!important;
+        margin-top: 25px;
+	}
+
+	.header-content h3{
+		        padding-left: 30px!important;
+    font-size: 20px!important;
+	}
+
+	.header-content p{
+		    font-size: 17px;
+    padding-left: 22px;
+    text-align: center;
+    }
+
+    .content-btn{
+    	    font-size: 20px;
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+    }
+
+    .second-content{
+    	    width: 100%;
+    }
+
+    .second-content img{
+    	        width: 342px;
+    	            margin-left: 0px;
+    }
+
+    .middle-one img{
+    	    width: 100%;
+    	        margin-top: 0px;
+    	            margin-bottom: 80px;
+    }
+
+    .middle-two h1{
+    	    font-size: 28px;
+    }
+
+    .middle-two p{
+    	    line-height: 40px;
+    	        width: 100%;
+    }
+
+    .down-one h1{
+    	    font-size: 28px;
+    	        margin-top: 60px;
+    	            padding-left: 0px;
+    }
+
+    .down-one p{
+    	    line-height: 40px;
+    	    padding-left: 0px;
+    }
+
+    .down-btn-one{
+    	margin-left: 0px;
+    	margin-bottom: 50px;
+    }
+
+    .down-two img{
+    	    width: 100%;
+    	        margin-bottom: 100px;
+    }
+
+    .bottom-img{
+    	    width: 100%;
+    margin-bottom: 50px!important;
+    }
+
+    .bottom-btn {
+    	margin-bottom: 0px;
+    }
+
+    .low h1{
+    	    padding-top: 50px;
+    }
+
+    .btm-part-right{
+    	    padding-bottom: 0px!important;
+    	        padding-left: 64px!important;
+    	           padding-top: 5px!important;
+                    padding-bottom: 30px!important;
+        }
+
+
+    .btm-part-left{
+    	        padding-left: 40px!important;
+    	        padding-bottom: 0px!important;
+
+}
+}
